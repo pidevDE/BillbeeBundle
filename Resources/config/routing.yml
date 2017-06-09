@@ -1,0 +1,3 @@
+pidev_de_billbee_homepage:
+    path:     /
+    defaults: { _controller: pidevDEBillbeeBundle:Default:index }
